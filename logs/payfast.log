@@ -1,0 +1,6 @@
+{"message":"consultando pagamento: 35","level":"info"}
+{"message":"::1 - - [09/Jul/2018:19:57:43 +0000] \"GET /pagamentos/pagamento/35 HTTP/1.1\" 200 192\n","level":"info"}
+{"message":"consultando pagamento: 35","level":"info"}
+{"message":"::1 - - [09/Jul/2018:20:44:45 +0000] \"GET /pagamentos/pagamento/35 HTTP/1.1\" 200 192\n","level":"info"}
+{"message":"consultando pagamento: 35","level":"info"}
+{"message":"::1 - - [09/Jul/2018:20:45:08 +0000] \"GET /pagamentos/pagamento/35 HTTP/1.1\" 200 192\n","level":"info"}
