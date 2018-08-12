@@ -1,5 +1,5 @@
-# Teste Marisa
-Esta aplicação é exclusivamente feita para Marisa. 
+# Payfast
+API que consome e trata consumo e cadastro de pagamentos. 
 
 ## Execução da API em Node.js
 
